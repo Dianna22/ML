@@ -1,5 +1,6 @@
 # ML
 ML algorithms implementations for different projects and datasets
+## RN - Neural networks for MNIST handwritten digits dataset
 ## Buzz in Social Media
 [Dataset description](http://archive.ics.uci.edu/ml/datasets/Buzz+in+social+media+#)
 ### 1. [Project proposal](https://docs.google.com/document/d/1b-bF-YKxTzFxHkb23kdgbsr79bYACUjwasyUcKrCeEg/edit?usp=sharing)
