@@ -36,3 +36,5 @@ def playground():
 	for i in range(no_created_discussions.shape[0])[:100]:
 		plt.plot(no_created_discussions.iloc[[i]].values[0])
 	plt.show()
+
+print(class_imbalance())
