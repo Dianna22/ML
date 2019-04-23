@@ -5,5 +5,6 @@ ML algorithms implementations for different projects and datasets
 [Dataset description](http://archive.ics.uci.edu/ml/datasets/Buzz+in+social+media+#)
 ### 1. [Project proposal](https://docs.google.com/document/d/1b-bF-YKxTzFxHkb23kdgbsr79bYACUjwasyUcKrCeEg/edit?usp=sharing)
 ### 2. [Project report](https://www.overleaf.com/read/fwmjysytzgvb)
+### 3. [Project presentation](https://www.overleaf.com/read/rqywjdxfxjzx)
 ### Requirements.txt
 Install the required packages using `python install -r requirements.txt`.
